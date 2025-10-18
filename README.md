@@ -1,4 +1,4 @@
-# talleresTypeScript
+# taller1TypeScript
 # Julian Rivera
 ## 202412458
 ## jc.riverag1@uniandes.edu.co
