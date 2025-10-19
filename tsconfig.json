@@ -9,8 +9,9 @@
     // See also https://aka.ms/tsconfig/module
     "module": "ES6",
     "target": "ES6",
-    "rootDir": "./",
-    "outDir": "./dist",
+  "rootDir": "./src",
+  "outDir": "./dist",
+  "moduleResolution": "node",
     "types": [],
     // For nodejs:
     // "lib": ["esnext"],
